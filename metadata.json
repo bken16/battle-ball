@@ -1,0 +1,6 @@
+{
+  "name": "Arena Duel: 角色格鬥擂台",
+  "description": "方形框架物理反彈自動戰鬥模擬器，角色在方框中持續反彈遊走，並依各自不同的攻擊週期與專屬技能自動交鋒決鬥。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
